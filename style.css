@@ -43,7 +43,7 @@ width: 40%;
 .text-container{
     width: 30%;
 }
-.container-bg{
+.container-bg {
     padding-top: 50px;
     background-image: url(shape/7.png);
     background-repeat: no-repeat;
@@ -58,6 +58,30 @@ width: 40%;
 .container p{
     margin-bottom: 50px;
 }
+.image-person{
+    padding-left: 100px;
+}
+.recipies1{
+    display: flex;
+    width: 100%;
+    margin-left: 50px;
+}
+.recipies {
+    width:25%;
+    margin: 1%;
+    border: 1 px solid;
+    border-radius: 20px;
+    box-shadow: 2px 5px 10px 5px gray;
+    padding: 20px;
+    margin-left: 40px;
+
+}
+.recipies img{
+    width:100%;
+}
+.recipi-text{
+    text-align: center;
+}
 
 
 
@@ -69,8 +93,4 @@ width: 40%;
 
 
 
-
-
-
-[]
 
