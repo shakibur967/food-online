@@ -69,7 +69,7 @@ width: 40%;
 .recipies {
     width:25%;
     margin: 1%;
-    border: 1 px solid;
+    border: 0px solid;
     border-radius: 20px;
     box-shadow: 2px 5px 10px 5px gray;
     padding: 20px;
@@ -82,9 +82,39 @@ width: 40%;
 .recipi-text{
     text-align: center;
 }
+.m-container{
+    display: flex;
+    width: 77%;
+    margin:90px 0px 30px 85px;
 
-
-
+    border: 0px solid;
+    border-radius: 10px;
+    box-shadow: 2px 5px 10px 5px gray;
+    padding: 10px 10px 10px 200px;
+    
+}
+.media{
+    width: 100%;
+}
+.media p{
+    padding-bottom: 30px;
+}
+footer{
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    margin: 100px 0px 0px 0px;
+}
+#footer-p{
+    color: white;
+    padding-bottom: 50px;
+}
+#grey{
+    color: grey;
+}
+.food{
+    padding-top: 40px;
+}
 
 
 
